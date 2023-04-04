@@ -6,4 +6,12 @@ Escreva um programa em C# e no Visual Studio que receba o valor da mercadoria e 
 da entrada e das duas prestações, de acordo com as regras acima. 
 Observe que uma justificativa para a adoção desta regra é que ela facilita a confecção e o 
 conseqüente pagamento dos boletos das duas prestações.*/
+using System.Globalization;
 
+
+Console.WriteLine("Informe o valor da mercadoria: R$ ");
+double mercadoria = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+int prestacao = ((int)(mercadoria / 3));
+double entrada = prestacao + mercadoria % 3;
+Console.WriteLine("Valor da entrada é de R$ " + entrada + " e com 2 parcelas de R$ " + prestacao);
