@@ -1,5 +1,6 @@
 ﻿//1) Escreva um programa em C# e no Visual Studio para calcular a média aritmética entre dois números quaisquer.
 
+
 Console.WriteLine(" ## Calculando a média aritmética de dois valores ##");
 
 Console.WriteLine("Digite o valor 1: ");
