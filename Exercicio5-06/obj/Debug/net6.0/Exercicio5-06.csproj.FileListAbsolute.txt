@@ -1,0 +1,15 @@
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\bin\Debug\net6.0\Exercicio5-06.exe
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\bin\Debug\net6.0\Exercicio5-06.deps.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\bin\Debug\net6.0\Exercicio5-06.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\bin\Debug\net6.0\Exercicio5-06.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\bin\Debug\net6.0\Exercicio5-06.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\refint\Exercicio5-06.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\Exercicio5-06.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\Exercicios01\Exercicio5-06\obj\Debug\net6.0\ref\Exercicio5-06.dll
